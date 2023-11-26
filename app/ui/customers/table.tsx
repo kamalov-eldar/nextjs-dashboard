@@ -31,7 +31,7 @@ export default async function CustomersTable({
                             <Image
                               src={customer.image_url}
                               className="rounded-full"
-                              alt="s profile picture"
+                              alt=""
                               width={28}
                               height={28}
                             />
@@ -88,7 +88,7 @@ export default async function CustomersTable({
                           <Image
                             src={customer.image_url}
                             className="rounded-full"
-                            alt="s profile picture"
+                            alt=""
                             width={28}
                             height={28}
                           />
