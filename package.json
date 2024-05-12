@@ -1,4 +1,5 @@
 {
+  "name": "course_https_nextjs_org_learn",
   "private": true,
   "scripts": {
     "build": "next build",
